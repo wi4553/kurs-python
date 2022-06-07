@@ -4,4 +4,6 @@ Jeśli chodzi o kurs cyber syciurity najlepiej opracować AI Big date uczenie ma
 Do generowania kodu oprogramowania masowo wystarczy napisać big datę na laptopa jak i generowanie modeli 3D czy patentów.
 Asystentem AI i BCI można szybko generować oprogramowanie potem AI może generować automatycznie.  
 Można też generować w terminalu AI skryptem. 
-System operacyjny może generować oprogramowanie wystarczy tylko powiedzieć słownie lub pomyśleć BCI czy wpisać do terminala nazwę generowanego programu. 
+System operacyjny może generować oprogramowanie wystarczy tylko powiedzieć słownie lub pomyśleć BCI czy wpisać do terminala nazwę generowanego programu. Manual data seance sport to też strata czasu
+Generowanie automatyczne programów jest opłacalne.
+Po tem więcej czasu wolnego. Programy generowane automatycznie są pewniejsze przez system operacyjny niż pisane ręcznie. Serwery mogą generować programy. 
